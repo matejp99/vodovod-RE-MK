@@ -2,13 +2,12 @@
   <Navbar />
   <HeroSection
     title="Voda, ki nas povezuje"
-    subtitle="VODOVOD RESTANJ – MALI KAMEN"
+    subtitle="VODOVOD REŠTANJ – MALI KAMEN"
     :image="homeImage"
   />  
   <AboutSection />
   <!-- <ServicesGrid /> -->
-  <!-- <GuaranteeSection />
-  <AnalysisSection /> -->
+  <GuaranteeSection/>
   <Footer />
 </template>
 
@@ -23,11 +22,3 @@ import Footer from '@/components/Footer.vue'
 
 import homeImage from '@/assets/images/img-welcome.jpeg'
 </script>
-
-<!-- Optional: Global styles -->
-<style>
-body {
-  margin: 0;
-  font-family: 'Inter', sans-serif;
-}
-</style>

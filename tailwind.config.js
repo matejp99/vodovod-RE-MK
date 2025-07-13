@@ -2,7 +2,15 @@
 export default {
   content: ['./index.html', './src/**/*.{vue,js,ts}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        ameda: ['ameda','sans-serif'],
+        montserrat: ['montserrat', 'sans-serif'],
+      },
+      fontSize: {
+        nav: '16px',
+      }
+    },
   },
   plugins: [],
 }

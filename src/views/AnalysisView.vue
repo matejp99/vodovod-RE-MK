@@ -3,7 +3,7 @@
     <Navbar />
   <HeroSection
     title="Garancija kakovosti"
-    subtitle="VODOVOD RESTANJ – MALI KAMEN"
+    subtitle="VODOVOD REŠTANJ – MALI KAMEN"
     :image="analysisImage"
   /> 
     <AnalysisSection />
