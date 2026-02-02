@@ -6,6 +6,7 @@
     subtitle="VODOVOD REŠTANJ – MALI KAMEN"
     :image="analysisImage"
   /> 
+  <SystemSection/>
     <AnalysisSection />
     <!-- <QuoteSection /> -->
     <Footer />
@@ -20,5 +21,6 @@ import QuoteSection from '@/components/QuoteSection.vue'
 import Footer from '@/components/Footer.vue'
 
 import analysisImage from '@/assets/images/img-analiza.jpeg'
+import SystemSection from '../components/SystemSection.vue'
 
 </script>

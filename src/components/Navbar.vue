@@ -19,7 +19,7 @@
             to="/analiza"
             class="hover:text-blue-300 transition-colors duration-200"
           >
-            Analize
+            Poročila
           </RouterLink>
         </li>
       </ul>

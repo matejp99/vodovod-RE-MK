@@ -16,11 +16,11 @@
       </div>
       <div class="text-sm space-y-1">
         <p class="font-semibold">E-NASLOV</p>
-        <p>joze.pozun@gmail.com</p>
+        <p>vodovod.restanjmalikamen@gmail.com</p>
       </div>
       <div class="text-sm space-y-1">
         <p class="font-semibold">TELEFON</p>
-        <p>+386-000-000</p>
+        <p>031-393-554</p>
       </div>
     </div>
   </footer>

@@ -20,5 +20,7 @@ import GuaranteeSection from '@/components/GuaranteeSection.vue'
 import AnalysisSection from '@/components/AnalysisSection.vue'
 import Footer from '@/components/Footer.vue'
 
-import homeImage from '@/assets/images/img-welcome.jpeg'
+//import homeImage from '@/assets/images/img-welcome.jpeg'
+import homeImage from '@/assets/images/img-mali-kamen.jpg'
+
 </script>
