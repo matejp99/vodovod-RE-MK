@@ -6,7 +6,7 @@
         <p class="uppercase text-green-900 text-sm">Naša zaveza kakovosti</p>
         <h2 class="text-4xl text-green-900 font-ameda mb-4">Poročila</h2>
         <p class="text-gray-600 text-sm">
-          Naša prva skrb je varna in kakovostna voda za vse krajane. Zaradi popolne transparentnosti tukaj javno objavljamo vsa uradna poročila in s tem krepimo medsebojno zaupanje.
+          Naša prva skrb je varna in kakovostna voda za vse krajane. Zaradi popolne transparentnosti tukaj javno objavljamo vsa uradna poročila in s tem krepimo medsebojno zaupanje.  
         </p>
 
         <div class="mt-8">
@@ -57,8 +57,12 @@ const reports = {
     "Analiza julij": 'Analiza julij _2025.pdf',
     "Analiza oktober": 'Analiza_oktober_2025.pdf',
     "Analiza oktober - Mestna občina Krško": '25-110220_Pitna-voda---Mali-Kamen-21.pdf',
-    "Letno poročilo 2025": 'letno_porocilo_2025.pdf'
-  }
+    "Letno poročilo 2025": 'letno_porocilo_2025.pdf',
+    "Poročilo o kakovosti pitne vode za leto 2025": 'porocilo_o_kakovosti_2025.pdf'
+  },
+  2026: {
+    "Analiza februar": 'Analiza februar 2026.pdf'
+  },
 }
-const selectedYear = ref(2025)
+const selectedYear = ref(2026)
 </script>
